@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>聚道</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="top-bar">
+		<div class="main clearfix">
+			<a href="javascript:;" class="logo fl">
+				<img src="images/logo.png" alt="">
+			</a>
+			<ul class="menu fr clearfix">
+				<li class="on"><a href="#">聚道</a></li>
+				<li><a href="#">产品中心</a></li>
+				<li><a href="#">解决方案</a></li>
+				<li><a href="#">加盟我们</a></li>
+				<li><a href="#">经典案例</a></li>
+				<li><a href="#">关于聚道</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="banner">
+		<div class="main">
+			<h3>微聚道3.0 微信营销自定义</h3>
+			<p>微聚道•智慧餐厅提供包含订餐、点菜、支付、营销、会员管理系统在内的一站式服务，将线下店铺和线上营销无缝对接。帮助餐厅快速提升订单，有效沉淀会员，精准投放营销活动。</p>
+			<dl>
+				<dd></dd>
+				<dt>关注聚道公众号</dt>
+			</dl>
+			<div class="btn-box">
+				<a class="btn try" href="#">即刻试用</a>
+				<a class="btn login" href="#">用户登录</a>
+				<a href="#" class="link-more" > 为什么选择聚道&gt;&gt; </a>
+			</div>
+			<div class="hill ani-top"></div>
+			<div class="cloud"></div>
+			<div class="cloud2"></div>
+		</div>
+		<div class="mask"></div>
+	</div>
+	<div class="product">
+		<h3 class="title">我们不断拓展平台的特色服务，让您运营起来更方便</h3>
+		<div class="p-box">
+			<div class="main clearfix">
+				<a class="product-1" href="#">
+					<div class="up-layer"></div>
+				</a>
+				<a class="product-2" href="#">
+					<div class="up-layer"></div>
+				</a>
+				<a class="product-3" href="#">
+					<div class="up-layer"></div>
+				</a>
+			</div>
+			
+		</div>
+	</div>
+	<div class="solve">
+		<h3 class="title">我们希望，走进您的行业为您提供解决方案</h3>
+		<div class="main clearfix">
+			<ul class="clearfix" id="tab">
+				<li class="on">
+					<dl>
+						<dd class="icon-1"></dd>
+						<dt>微电商</dt>
+					</dl>
+				</li>
+				<li>
+					<dl>
+						<dd class="icon-2"></dd>
+						<dt>智慧餐厅</dt>
+					</dl>
+				</li>
+				<li>
+					<dl>
+						<dd class="icon-3"></dd>
+						<dt>智慧城市</dt>
+					</dl>
+				</li>
+				<li>
+					<dl>
+						<dd class="icon-4"></dd>
+						<dt>移动办公</dt>
+					</dl>
+				</li>
+				<li>
+					<dl>
+						<dd class="icon-5"></dd>
+						<dt>移动广告</dt>
+					</dl>
+				</li>
+				<li>
+					<dl>
+						<dd class="icon-6"></dd>
+						<dt>微信运营</dt>
+					</dl>
+				</li>
+			</ul>
+			<div class="tab-con">
+				<div id="tab-con">
+					<div class="tab-c" style="display:block;">
+						<h3>智慧餐厅解决方案1</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+					<div class="tab-c">
+						<h3>智慧餐厅解决方案2</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+					<div class="tab-c">
+						<h3>智慧餐厅解决方案3</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+					<div class="tab-c">
+						<h3>智慧餐厅解决方案4</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+					<div class="tab-c">
+						<h3>智慧餐厅解决方案5</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+					<div class="tab-c">
+						<h3>智慧餐厅解决方案6</h3>
+						<p>微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线微电商解决方案致力于为零售业提供全渠道电商解决方案，通过自建商城，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线</p>
+						<a href="#">了解更多</a>
+					</div>
+				</div>
+				<ins></ins>
+			</div>
+		</div>
+	</div>
+	<div class="system">
+		<h3 class="title">产品才是王道，八大系统让你的微信成为巨人</h3>
+		<div class="main sys-box">
+			<a href="javascript:;" class="btn-last"></a>
+			<a href="javascript:;" class="btn-next"></a>
+			<div class="marquee-box">
+				<ul class="clearfix" id="marquee">
+					<li class="sys-1">
+						<div>
+							<dl>
+								<dd><img src="images/icon-eye.png" alt=""></dd>
+								<dt>展现系统5</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-2">
+						<div>
+							<dl>
+								<dd><img src="images/icon-friend.png" alt=""></dd>
+								<dt>展现系统6</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-3">
+						<div>
+							<dl>
+								<dd><img src="images/icon-chat.png" alt=""></dd>
+								<dt>展现系统7</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-4">
+						<div>
+							<dl>
+								<dd><img src="images/icon-car.png" alt=""></dd>
+								<dt>展现系统8</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-1">
+						<div>
+							<dl>
+								<dd><img src="images/icon-eye.png" alt=""></dd>
+								<dt>展现系统1</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-2">
+						<div>
+							<dl>
+								<dd><img src="images/icon-friend.png" alt=""></dd>
+								<dt>展现系统2</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-3">
+						<div>
+							<dl>
+								<dd><img src="images/icon-chat.png" alt=""></dd>
+								<dt>展现系统3</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-4">
+						<div>
+							<dl>
+								<dd><img src="images/icon-car.png" alt=""></dd>
+								<dt>展现系统4</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-1">
+						<div>
+							<dl>
+								<dd><img src="images/icon-eye.png" alt=""></dd>
+								<dt>展现系统5</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-2">
+						<div>
+							<dl>
+								<dd><img src="images/icon-friend.png" alt=""></dd>
+								<dt>展现系统6</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-3">
+						<div>
+							<dl>
+								<dd><img src="images/icon-chat.png" alt=""></dd>
+								<dt>展现系统7</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-4">
+						<div>
+							<dl>
+								<dd><img src="images/icon-car.png" alt=""></dd>
+								<dt>展现系统8</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-1">
+						<div>
+							<dl>
+								<dd><img src="images/icon-eye.png" alt=""></dd>
+								<dt>展现系统1</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-2">
+						<div>
+							<dl>
+								<dd><img src="images/icon-friend.png" alt=""></dd>
+								<dt>展现系统2</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-3">
+						<div>
+							<dl>
+								<dd><img src="images/icon-chat.png" alt=""></dd>
+								<dt>展现系统3</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+					<li class="sys-4">
+						<div>
+							<dl>
+								<dd><img src="images/icon-car.png" alt=""></dd>
+								<dt>展现系统4</dt>
+							</dl>
+							<p><a href="#"><span>景</span>微场景</a></p>
+							<p><a href="#"><span>官</span>微官网</a></p>
+							<p><a href="#"><span>全</span>360全景</a></p>
+							<p><a href="#"><span>相</span>微相册</a></p>
+
+						</div>
+					</li>
+				</ul>
+			</div>
+			
+		</div>
+	</div>
+	<div class="wechat">
+		<div class="main">
+			<p class="sub-title">微信营销4步阶梯法</p>
+			<p class="sub-title">为您创造更加专业、简明、高效的操作体验</p>
+
+		</div>
+	</div>
+	<div class="case">
+		<h3 class="title">他们，已经在这里了</h3>
+		<ul class="case-box main clearfix">
+			<li class="no-mar">
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li class="no-mar">
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+			<li>
+				<div class="logo-box">
+					<img src="images/logo.jpg" alt="">
+				</div>
+				<div class="msg-box">
+					<p class="intro">聚道商家，让更多商家更快乐</p>
+					<p class="desc">
+						文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字alk佳世客两地分居
+					</p>
+					<div class="cover">
+						<img src="images/logo-ewm.jpg" alt="">
+					</div>
+				</div>
+				<a href="#">
+					聚道商家版
+				</a>
+			</li>
+		</ul>
+		<a href="#" class="more">了解更多</a>
+	</div>
+
+
+	<script src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$(".banner").addClass("ani-active")
+		//tab切换
+		$("#tab").find("li").on("click",function(){
+			var index = $(this).index();
+			$(this).addClass("on").siblings("li").removeClass("on");
+			$("#tab-con").find("div").eq(index).fadeIn(800).siblings("div").hide();
+		})
+		// 产品列表滚动
+		var $marquee = $("#marquee"),
+			marflag = true;
+		$(".btn-next").click(function(){
+			var left = parseInt($marquee.css('left'));
+			if(marflag){
+				marflag = false; // 防止连续点击
+				$marquee.animate({left:left-1200+'px'},500,function(){
+					marflag = true;
+					if(left == -2400){
+						$marquee.css("left","-1200px");
+					}
+				});
+			}
+			
+		})
+		$(".btn-last").click(function(){
+			var left = parseInt($marquee.css('left'));
+			if(marflag){
+				marflag = false; // 防止连续点击
+				$marquee.animate({left:left+1200+'px'},500,function(){
+					marflag = true;
+					if(left == -1200){
+						$marquee.css("left","-2400px");
+					}
+				});
+			}
+		})
+	})
+	</script>
+</body>
+</html>
